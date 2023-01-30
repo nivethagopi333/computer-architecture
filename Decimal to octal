@@ -1,0 +1,81 @@
+#include<stdio.h>
+int main()
+{
+	int d1;
+	printf("enter the decimal number");
+	if(scanf("%d",&d1))
+	{
+		printf("\n decimal number -->%d",d1);
+		printf("\n octal number-->%o ",d1);
+	}
+	else
+	{
+		printf("invalid");
+	}
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+#include<stdio.h>
+int main()
+{
+	int d1;
+	printf("enter the decimal number");
+	if(scanf("%d",&d1))
+	{
+		printf("\n decimal number -->%d",d1);
+		printf("\n octal number-->%o ",d1);
+	}
+	else
+	{
+		printf("invalid");
+	}
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+#include<stdio.h>
+int main()
+{
+	int d1;
+	printf("enter the decimal number");
+	if(scanf("%d",&d1))
+	{
+		printf("\n decimal number -->%d",d1);
+		printf("\n octal number-->%o ",d1);
+	}
+	else
+	{
+		printf("invalid");
+	}
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+#include<stdio.h>
+int main()
+{
+	int d1;
+	printf("enter the decimal number");
+	if(scanf("%d",&d1))
+	{
+		printf("\n decimal number -->%d",d1);
+		printf("\n octal number-->%o ",d1);
+	}
+	else
+	{
+		printf("invalid");
+	}
+}
